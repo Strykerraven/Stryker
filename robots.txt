@@ -10,4 +10,4 @@ Disallow: /nbproject/
 
 ## Sitemaps
 # Sitemap: https://Strykerraven.github.io/sitemap_index.xml
-Sitemap: https://jasonb.xyz/sitemap_index.xml
+Sitemap: https://Stryker.NeoCities.org/sitemap_index.xml
